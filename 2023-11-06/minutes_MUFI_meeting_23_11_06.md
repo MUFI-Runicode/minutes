@@ -82,28 +82,35 @@ Lunch provided by the subpanel
 
 ### 13:00
 
-- Continue discussion before lunch. (There’s a lot to cover in the morning session.)
-- Hopefully achieve consensus on goals, scope and remit for mission statement.
-
 Harald has left us for the afternoon session.
 We continue with discussion of the nature of the the guidelines for graphical/visual forms, and update the mission statement concering mappings to characters accordingly.
 
 We discussed the need to encode distinct characters *and* the specifical graphical variation. We agree that the need is real, but that the solution is not clear and requires further work. Options include the use of variation selectors (which is unlikely to be approved by Unicode); the relegation of form-variants to fonts and display only (using font stylistic sets, perhaps standardised, but which exists "out of band" and is not searchable or interoperable); or the use of non-variation selector. Both approaches argue for a minimal character set which does not distinguish between e.g long-branch and short-twig forms, but upon which such variations can nonetheless be encoded. How this is to be done is the subject of future work.
 
 
-### 14:00
+### Proposed work packages:
 
-- Discussion: Based on the goals and scope, what work packages are required and what are the next steps? From whom is participation needed?
+1. Review and evaluate current:
+   - solutions,
+   - technologies,
+   - research (runic graphemics, Unicode/MUFI… etc)
+2. Character and glyph invetory.
+3. Develop a solution
+   - Are the two levels identified (graphical and linguistic) necessary and sufficient?
+   - What potential solutions are available (runic meccano, rich text/stylistic sets, varations selectors, in-band codes)?
+4. Implementation – providing something workable (interface, fonts).
 
-### 14:50
+**Action item:** 1. – review and evalutate current state of the art – to be carried out in collaboration between Marcus, Elisabeth, Tarrin and Marco. Tarrin to lead.
+**Action item:** Elisabeth does 2. – character and glyph inventory – the medieval Bergen material as part of her Marie-Cure project
+**Action item:** Elisabeth to ask Alessandro if he has something similar for the Swedish material (perhaps in his PhD database)
+**Action item:** Tarrin to collate glyphs from runic fonts and look at connecting them to provenance data
+**Action item:** Marcus to get in touch with Deborah ??? at Unicode to check in with them on the existence of the sub-panel and the potential/process for changes to Unciode based on the direction we're thinking in (possibly to be a new work package, if response favourable).
 
-Coffee and refreshments break
+3 and 4 mostly to wait until 1 & 2 are complete.
 
-### 15:15
 
-Basic points for mission statement draft
+### Updated mission statement draft approved
 
-### 16:00
+**Per agrement this morning, online check-in in two months (late jan/early feb 2024) 
 
-End
-
+Meeting concluded 14:30.

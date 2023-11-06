@@ -24,4 +24,4 @@ In addition, the sub-panel should also establish seperate guidelines for the dig
 
 - The guidelines should encode runic forms only, with no implied linguistic content.
 - The guidelines should be considered orthogonal to those for the encoding of runic characters.
-- The guidleines should not define mappings of visusl forms to characters, but empirical relationships may be recorded as part of the process of collecting visual forms.
+- The guidleines should not define mappings of visual forms to characters, but empirical relationships may be recorded as part of the process of collecting visual forms.
